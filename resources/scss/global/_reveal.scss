@@ -349,7 +349,10 @@ p, li {
 	   -moz-box-sizing: border-box;
 	        box-sizing: border-box;
 }
-
+.reveal table {
+	font-size: 2.4rem;
+	line-height: 2.9rem;
+}
 .reveal table th,
 .reveal table td {
 	text-align: left;
@@ -360,6 +363,9 @@ p, li {
 	font-weight: bold;
 }
 
+.reveal table td {
+	margin-bottom: 2rem;
+}
 .reveal sup {
 	vertical-align: super;
 }

@@ -30,189 +30,111 @@
 		{
 			"data": [
 				{
-					"section-h1": "Veams-Methodology",
-					"section-link": "http://www.veams.org/methodology/"
+					"section-h1": "Allgemeines",
+					"section-link": "http://sassdoc.com/"
 				},
 				{
-					"section-h2": "Was ist Veams-Methodology?",
+					"section-h2": "Wer hat's erfunden?",
 					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-methodology/meth--definition.md"
+					"section-md": "resources/templates/data/de/pages/sd-general/sd--developed.md"
 				},
 				{
-					"section-h2": "Warum Veams-Methodology",
+					"section-h2": "Wofür kann man es benutzen?",
 					"section-content-classes": "is-small",
-					"section-md": "resources/templates/data/de/pages/veams-methodology/meth--why.md"
+					"section-md": "resources/templates/data/de/pages/sd-general/sd--why.md"
 				},
 				{
-					"section-h2": "Wie macht das Veams-Methodology",
+					"section-h2": "Wie funktioniert das in Sassdoc?",
 					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-methodology/meth--how.md"
+					"section-md": "resources/templates/data/de/pages/sd-general/sd--how.md"
 				},
 				{
-					"section-h2": "Fragen?",
+					"section-h2": "Wie installiert man SassDoc?",
 					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-methodology/meth--questions.md"
+					"section-md": "resources/templates/data/de/pages/sd-general/sd--install.md"
 				}
 			]
 		},
 		{
 			"data": [
 				{
-					"section-h1": "Veams-Sass",
-					"section-link": "http://www.veams.org/sass/"
+					"section-h1": "Syntax",
+					"section-link": "http://sassdoc.com/annotations/"
 				},
 				{
-					"section-h2": "Was ist Veams-Sass?",
+					"section-h2": "Wie dokumentiere ich, damit SassDoc greift?",
 					"section-content-classes": "is-small",
-					"section-md": "resources/templates/data/de/pages/veams-sass/sass--definition.md"
+					"section-md": "resources/templates/data/de/pages/sd-syntax/syntax--general.md"
 				},
 				{
-					"section-h2": "Was beinhaltet Veams-Sass?",
+					"section-h2": "Beispiel",
 					"section-content-classes": "is-small",
-					"section-md": "resources/templates/data/de/pages/veams-sass/sass--expects.md"
+					"section-md": "resources/templates/data/de/pages/sd-syntax/syntax--example.md"
 				},
 				{
-					"section-h2": "Installation",
-					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-sass/sass--installation.md"
-				},
-				{
-					"section-h2": "Benutzung",
+					"section-h2": "Nützliche Annotations",
 					"section-content-classes": "is-small",
-					"section-md": "resources/templates/data/de/pages/veams-sass/sass--usage.md"
-				},
-				{
-					"section-h2": "Dokumentation",
-					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-sass/sass--docs.md"
-				},
-				{
-					"section-h2": "Demo",
-					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-sass/sass--demo.md"
-				},
-				{
-					"section-h2": "Fragen?",
-					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-sass/sass--questions.md"
+					"section-md": "resources/templates/data/de/pages/sd-syntax/syntax--annotations.md"
 				}
 			]
 		},
 		{
 			"data": [
 				{
-					"section-h1": "Veams-Components",
-					"section-link": "http://www.veams.org/components/"
+					"section-h1": "Theming",
+					"section-link": "http://sassdoc.com/using-your-own-theme/"
 				},
 				{
-					"section-h2": "Was ist Veams-Components?",
+					"section-h2": "Was bietet SassDoc an?",
 					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-components/components--definition.md"
+					"section-md": "resources/templates/data/de/pages/sd-theming/theming--general.md"
 				},
 				{
-					"section-h2": "Was beinhaltet Veams-Components?",
+					"section-h2": "Default Theme",
 					"section-content-classes": "is-small",
-					"section-md": "resources/templates/data/de/pages/veams-components/components--expects.md"
+					"section-md": "resources/templates/data/de/pages/sd-theming/theming--default.md"
 				},
 				{
-					"section-h2": "Installation",
+					"section-h2": "Theme Gallery",
+					"section-link": "http://sassdoc.com/theme-gallery/",
 					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-components/components--installation.md"
+					"section-md": "resources/templates/data/de/pages/sd-theming/theming--gallery.md"
 				},
 				{
-					"section-h2": "Benutzung",
+					"section-h2": "Theme Generator",
 					"section-content-classes": "is-small",
-					"section-md": "resources/templates/data/de/pages/veams-components/components--usage.md"
+					"section-md": "resources/templates/data/de/pages/sd-theming/theming--generator.md"
 				},
 				{
-					"section-h2": "Struktur",
+					"section-h2": "Blank Theme",
 					"section-content-classes": "is-small",
-					"section-md": "resources/templates/data/de/pages/veams-components/components--structure.md"
+					"section-md": "resources/templates/data/de/pages/sd-theming/theming--blank-theme.md"
 				},
 				{
-					"section-h2": "Demo",
-					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-components/components--demo.md"
+					"section-h2": "Custom Theme",
+					"section-content-classes": "is-small",
+					"section-md": "resources/templates/data/de/pages/sd-theming/theming--custom.md"
 				},
 				{
-					"section-h2": "Fragen?",
-					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-components/components--questions.md"
+					"section-h2": "Beispiel?",
+					"section-link": "https://github.com/Sebastian-Fitzner/sassdoc-theme-veams"
 				}
 			]
 		},
 		{
 			"data": [
 				{
-					"section-h1": "Veams-JS",
-					"section-link": "http://www.veams.org/js/"
+					"section-h1": "Zusammenfassung"
 				},
 				{
-					"section-h2": "Was ist Veams-JS?",
+					"section-h2": "Vorteile und Nutzen",
 					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-js/js--definition.md"
+					"section-md": "resources/templates/data/de/pages/sd-conclusion/sum--general.md"
 				},
 				{
-					"section-h2": "Was beinhaltet Veams-JS?",
-					"section-content-classes": "is-small",
-					"section-md": "resources/templates/data/de/pages/veams-js/js--expects.md"
-				},
-				{
-					"section-h2": "Installation",
+					"section-h2": "Nachteile",
 					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-js/js--installation.md"
-				},
-				{
-					"section-h2": "Benutzung",
-					"section-content-classes": "is-small",
-					"section-md": "resources/templates/data/de/pages/veams-js/js--usage.md"
-				},
-				{
-					"section-h2": "Demo",
-					"section-content-classes": "is-small",
-					"section-md": "resources/templates/data/de/pages/veams-js/js--demo.md"
-				},
-				{
-					"section-h2": "Fragen?",
-					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-js/js--questions.md"
-				}
-			]
-		},
-		{
-			"data": [
-				{
-					"section-h1": "Veams-Generator",
-					"section-link": "http://www.veams.org/generator/"
-				},
-				{
-					"section-h2": "Was ist Veams-Generator?",
-					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-generator/generator--definition.md"
-				},
-				{
-					"section-h2": "Was beinhaltet Veams-Generator?",
-					"section-md": "resources/templates/data/de/pages/veams-generator/generator--expects.md"
-				},
-				{
-					"section-h2": "Installation",
-					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-generator/generator--installation.md"
-				},
-				{
-					"section-h2": "Benutzung",
-					"section-content-classes": "is-small",
-					"section-md": "resources/templates/data/de/pages/veams-generator/generator--usage.md"
-				},
-				{
-					"section-h2": "Dokumentation",
-					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-generator/generator--doku.md"
-				},
-				{
-					"section-h2": "Fragen?",
-					"section-content-classes": "is-small is-centered",
-					"section-md": "resources/templates/data/de/pages/veams-generator/generator--questions.md"
+					"section-md": "resources/templates/data/de/pages/sd-conclusion/sum--contra.md"
 				}
 			]
 		},

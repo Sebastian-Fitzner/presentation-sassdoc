@@ -1,3 +1,3 @@
-![alt Veams Overview](img/veams-overview.jpg "Veams Overview")
+![alt Veams Overview](img/thumbs-up.gif "Veams Overview")
 
-### Happy docs coding?
+#### Happy docs coding?

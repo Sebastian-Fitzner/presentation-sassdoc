@@ -1,7 +1,0 @@
-- ES Harmony Syntax (auch CommonJS möglich)
-- Models, Views & Collections via BackboneJS | ExoskeletonJS | AmpersandJS (später optional)
-- Ajax Module Handling
-- Helper Functions in VanillaJS (anpassbar)
-- HandlebarsJS as frontend template engine (optional)
-- Custom Elements Unterstützung (optional)
-- Flexiblität durch die Nutzung von generellen Design Patterns (Publish/Subscribe & Mediators)
