@@ -1,0 +1,1 @@
+![alt Questions](img/understand.gif "Questions?")
